@@ -1,3 +1,16 @@
+# Description: 
+A streamlined Web Application to fetch and Display News From different Catgories to the user dynamically.
+# Integration: 
+Integrated News API, http requests are sent to NEWS API to fetch news.
+# Functionality: 
+Fetches and Displays news of different categories using HTTP requests to the NEWSAPI.
+# User Experience: 
+Enhanced user experience with Responsive Design and seamless navigation
+
+![image](https://github.com/user-attachments/assets/b5e92e87-fe06-402d-ab14-404e740fbfb0)
+![image](https://github.com/user-attachments/assets/fe2c775f-0dba-4639-a7f0-4311f797f17d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
